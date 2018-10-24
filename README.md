@@ -1,11 +1,8 @@
 # Regression---House-Sale-Price-Prediction
 
-<h1> Regression-House Sale Price Prediction
+<h1> 作業要求
 
-<h2> 作業要求
-
-使用回歸模型做房價預測，你們要做的是：
-
+    使用回歸模型做房價預測，你們要做的是：
     1.用train.csv跟valid.csv訓練模型（一行是一筆房屋交易資料的紀錄，包括id, price與19種房屋參數）
     2.將test.csv中的每一筆房屋參數，輸入訓練好的模型，預測其房價
     3.將預測結果上傳（從“Submit Predictions”連結）
