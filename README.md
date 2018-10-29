@@ -92,3 +92,8 @@
 
     Y_predict = model.predict(X_test)
     np.savetxt('/home/scarlet/ML/result1.csv',Y_predict,delimiter=',')
+
+程式Running過程
+===============
+    
+    
