@@ -96,4 +96,4 @@
 程式Running過程
 ===============
     
-    
+    ![image](https://github.com/107368075/Regression---House-Sale-Price-Prediction/blob/18472463a55f6b7a25d0b9992c4c1f9e9e2b2f6a/hw1.jpg)
