@@ -96,9 +96,9 @@
 程式Running過程
 ===============
     
-![image](hw.jpg)
+![image](hw1.jpg)
 
 Kaggle排名
 ==========
 
-![image](hw-1.png)
+![image](hw1-1.png)
