@@ -96,9 +96,9 @@
 程式Running過程
 ===============
     
-    暫時無法顯示
+![image](hw.jpg)
 
 Kaggle排名
 ==========
 
-    暫時無法顯示
+![image](hw-1.png)
